@@ -29,13 +29,13 @@ This repository provides a complete example of how to integrate the Syncfusion A
 
 4. **Trust the SPFx Dev Certificate:**
    ```bash
-   npx trust-dev-cert
+   heft trust-dev-cert
    ```
    Or simply trust when prompted during first run.
 
 5. **Start the application:**
    ```bash
-   npm run start
+   heft start
    ```
 
 6. **Allow debug scripts?**  
