@@ -26,7 +26,7 @@ This repository provides a complete example of how to integrate the Syncfusion A
    ```json
    "initialPage": "https://<your-tenant>.sharepoint.com/_layouts/15/workbench.aspx"
    ```
-   **Note:** Replace <your-tenant> with your actual SharePoint Online tenant name.
+   **Note:** Replace `<your-tenant>` with your actual SharePoint Online tenant name.
 
 4. **Trust the SPFx Dev Certificate:**
    ```bash
