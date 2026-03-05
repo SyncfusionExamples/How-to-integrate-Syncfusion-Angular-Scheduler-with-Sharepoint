@@ -13,8 +13,8 @@ This repository provides a complete example of how to integrate the Syncfusion A
 
 1. **Clone the repository to your local machine and navigate to the project folder.**
    ```bash
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/SyncfusionExamples/How-to-integrate-Syncfusion-Angular-Scheduler-with-Sharepoint.git
+   cd How-to-integrate-Syncfusion-Angular-Scheduler-with-Sharepoint
    ```
 
 2. **Install project dependencies:**
@@ -26,6 +26,7 @@ This repository provides a complete example of how to integrate the Syncfusion A
    ```json
    "initialPage": "https://<your-tenant>.sharepoint.com/_layouts/15/workbench.aspx"
    ```
+   For example: 'syncfusion.sharepoint.com'
 
 4. **Trust the SPFx Dev Certificate:**
    ```bash
