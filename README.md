@@ -1,8 +1,6 @@
 # Getting Started with Integrating Syncfusion Angular Scheduler in SharePoint (SPFx 1.22+)
 
-## Description
-
-This repository provides a complete example of how to integrate the Syncfusion Angular Scheduler component into a SharePoint Framework (SPFx) web part using the modern Heft-based build toolchain introduced in SPFx v1.22+. SharePoint Framework enables fully client‑side solutions that run seamlessly within SharePoint Online pages.
+This repository provides a complete example of how to integrate the [Angular Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler) component into a SharePoint Framework (SPFx) web part using the modern Heft-based build toolchain introduced in SPFx v1.22+. SharePoint Framework enables fully client‑side solutions that run seamlessly within SharePoint Online pages.
 
 ## Prerequisites
 
